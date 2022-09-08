@@ -1,0 +1,11 @@
+E:\Stockage_projet\C#\Calc\Calc\bin\Debug\netcoreapp2.0\Calc.deps.json
+E:\Stockage_projet\C#\Calc\Calc\bin\Debug\netcoreapp2.0\Calc.runtimeconfig.json
+E:\Stockage_projet\C#\Calc\Calc\bin\Debug\netcoreapp2.0\Calc.runtimeconfig.dev.json
+E:\Stockage_projet\C#\Calc\Calc\bin\Debug\netcoreapp2.0\Calc.dll
+E:\Stockage_projet\C#\Calc\Calc\bin\Debug\netcoreapp2.0\Calc.pdb
+E:\Stockage_projet\C#\Calc\Calc\obj\Debug\netcoreapp2.0\Calc.csprojResolveAssemblyReference.cache
+E:\Stockage_projet\C#\Calc\Calc\obj\Debug\netcoreapp2.0\Calc.csproj.CoreCompileInputs.cache
+E:\Stockage_projet\C#\Calc\Calc\obj\Debug\netcoreapp2.0\Calc.AssemblyInfoInputs.cache
+E:\Stockage_projet\C#\Calc\Calc\obj\Debug\netcoreapp2.0\Calc.AssemblyInfo.cs
+E:\Stockage_projet\C#\Calc\Calc\obj\Debug\netcoreapp2.0\Calc.dll
+E:\Stockage_projet\C#\Calc\Calc\obj\Debug\netcoreapp2.0\Calc.pdb

@@ -1,0 +1,10 @@
+E:\Stockage_projet\C#\Binarize\binarize\binarize\bin\Debug\binarize.exe.config
+E:\Stockage_projet\C#\Binarize\binarize\binarize\bin\Debug\binarize.exe
+E:\Stockage_projet\C#\Binarize\binarize\binarize\bin\Debug\binarize.pdb
+E:\Stockage_projet\C#\Binarize\binarize\binarize\obj\Debug\binarize.Form1.resources
+E:\Stockage_projet\C#\Binarize\binarize\binarize\obj\Debug\binarize.Properties.Resources.resources
+E:\Stockage_projet\C#\Binarize\binarize\binarize\obj\Debug\binarize.csproj.GenerateResource.cache
+E:\Stockage_projet\C#\Binarize\binarize\binarize\obj\Debug\binarize.csproj.CoreCompileInputs.cache
+E:\Stockage_projet\C#\Binarize\binarize\binarize\obj\Debug\binarize.exe
+E:\Stockage_projet\C#\Binarize\binarize\binarize\obj\Debug\binarize.pdb
+E:\Stockage_projet\C#\Binarize\binarize\binarize\obj\Debug\binarize.csprojResolveAssemblyReference.cache

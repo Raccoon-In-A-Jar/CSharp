@@ -1,0 +1,11 @@
+E:\Stockage_projet\C#\bidouillages\amusement_haha\amusement_haha\bin\Debug\netcoreapp2.0\amusement_haha.deps.json
+E:\Stockage_projet\C#\bidouillages\amusement_haha\amusement_haha\bin\Debug\netcoreapp2.0\amusement_haha.runtimeconfig.json
+E:\Stockage_projet\C#\bidouillages\amusement_haha\amusement_haha\bin\Debug\netcoreapp2.0\amusement_haha.runtimeconfig.dev.json
+E:\Stockage_projet\C#\bidouillages\amusement_haha\amusement_haha\bin\Debug\netcoreapp2.0\amusement_haha.dll
+E:\Stockage_projet\C#\bidouillages\amusement_haha\amusement_haha\bin\Debug\netcoreapp2.0\amusement_haha.pdb
+E:\Stockage_projet\C#\bidouillages\amusement_haha\amusement_haha\obj\Debug\netcoreapp2.0\amusement_haha.csprojResolveAssemblyReference.cache
+E:\Stockage_projet\C#\bidouillages\amusement_haha\amusement_haha\obj\Debug\netcoreapp2.0\amusement_haha.csproj.CoreCompileInputs.cache
+E:\Stockage_projet\C#\bidouillages\amusement_haha\amusement_haha\obj\Debug\netcoreapp2.0\amusement_haha.AssemblyInfoInputs.cache
+E:\Stockage_projet\C#\bidouillages\amusement_haha\amusement_haha\obj\Debug\netcoreapp2.0\amusement_haha.AssemblyInfo.cs
+E:\Stockage_projet\C#\bidouillages\amusement_haha\amusement_haha\obj\Debug\netcoreapp2.0\amusement_haha.dll
+E:\Stockage_projet\C#\bidouillages\amusement_haha\amusement_haha\obj\Debug\netcoreapp2.0\amusement_haha.pdb

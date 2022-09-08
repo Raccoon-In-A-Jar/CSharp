@@ -1,0 +1,10 @@
+E:\Stockage_projet\C#\Bip\Bip\bin\Debug\Bip.exe.config
+E:\Stockage_projet\C#\Bip\Bip\bin\Debug\Bip.exe
+E:\Stockage_projet\C#\Bip\Bip\bin\Debug\Bip.pdb
+E:\Stockage_projet\C#\Bip\Bip\obj\Debug\Bip.csprojResolveAssemblyReference.cache
+E:\Stockage_projet\C#\Bip\Bip\obj\Debug\Bip.Form1.resources
+E:\Stockage_projet\C#\Bip\Bip\obj\Debug\Bip.Properties.Resources.resources
+E:\Stockage_projet\C#\Bip\Bip\obj\Debug\Bip.csproj.GenerateResource.Cache
+E:\Stockage_projet\C#\Bip\Bip\obj\Debug\Bip.csproj.CoreCompileInputs.cache
+E:\Stockage_projet\C#\Bip\Bip\obj\Debug\Bip.exe
+E:\Stockage_projet\C#\Bip\Bip\obj\Debug\Bip.pdb
