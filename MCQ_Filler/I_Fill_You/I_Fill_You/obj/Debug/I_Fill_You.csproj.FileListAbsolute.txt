@@ -1,0 +1,11 @@
+E:\Stockage_projet\C#\MCQ_Filler\I_Fill_You\I_Fill_You\obj\Debug\I_Fill_You.csprojResolveAssemblyReference.cache
+E:\Stockage_projet\C#\MCQ_Filler\I_Fill_You\I_Fill_You\obj\Debug\I_Fill_You.csproj.ResolveComReference.cache
+E:\Stockage_projet\C#\MCQ_Filler\I_Fill_You\I_Fill_You\obj\Debug\I_Fill_You.Properties.Resources.resources
+E:\Stockage_projet\C#\MCQ_Filler\I_Fill_You\I_Fill_You\obj\Debug\I_Fill_You.csproj.GenerateResource.cache
+E:\Stockage_projet\C#\MCQ_Filler\I_Fill_You\I_Fill_You\obj\Debug\I_Fill_You.csproj.CoreCompileInputs.cache
+E:\Stockage_projet\C#\MCQ_Filler\I_Fill_You\I_Fill_You\bin\Debug\I_Fill_You.exe.config
+E:\Stockage_projet\C#\MCQ_Filler\I_Fill_You\I_Fill_You\bin\Debug\I_Fill_You.exe
+E:\Stockage_projet\C#\MCQ_Filler\I_Fill_You\I_Fill_You\bin\Debug\I_Fill_You.pdb
+E:\Stockage_projet\C#\MCQ_Filler\I_Fill_You\I_Fill_You\obj\Debug\I_Fill_You.exe
+E:\Stockage_projet\C#\MCQ_Filler\I_Fill_You\I_Fill_You\obj\Debug\I_Fill_You.pdb
+E:\Stockage_projet\C#\MCQ_Filler\I_Fill_You\I_Fill_You\obj\Debug\I_Fill_You.MCQ_Filler.resources
