@@ -1,0 +1,11 @@
+E:\Stockage_projet\C#\CatsAndDogs\CatsAndDogs\obj\Debug\netcoreapp2.0\CatsAndDogs.csprojResolveAssemblyReference.cache
+E:\Stockage_projet\C#\CatsAndDogs\CatsAndDogs\obj\Debug\netcoreapp2.0\CatsAndDogs.csproj.CoreCompileInputs.cache
+E:\Stockage_projet\C#\CatsAndDogs\CatsAndDogs\obj\Debug\netcoreapp2.0\CatsAndDogs.AssemblyInfoInputs.cache
+E:\Stockage_projet\C#\CatsAndDogs\CatsAndDogs\obj\Debug\netcoreapp2.0\CatsAndDogs.AssemblyInfo.cs
+E:\Stockage_projet\C#\CatsAndDogs\CatsAndDogs\bin\Debug\netcoreapp2.0\CatsAndDogs.deps.json
+E:\Stockage_projet\C#\CatsAndDogs\CatsAndDogs\bin\Debug\netcoreapp2.0\CatsAndDogs.runtimeconfig.json
+E:\Stockage_projet\C#\CatsAndDogs\CatsAndDogs\bin\Debug\netcoreapp2.0\CatsAndDogs.runtimeconfig.dev.json
+E:\Stockage_projet\C#\CatsAndDogs\CatsAndDogs\bin\Debug\netcoreapp2.0\CatsAndDogs.dll
+E:\Stockage_projet\C#\CatsAndDogs\CatsAndDogs\bin\Debug\netcoreapp2.0\CatsAndDogs.pdb
+E:\Stockage_projet\C#\CatsAndDogs\CatsAndDogs\obj\Debug\netcoreapp2.0\CatsAndDogs.dll
+E:\Stockage_projet\C#\CatsAndDogs\CatsAndDogs\obj\Debug\netcoreapp2.0\CatsAndDogs.pdb

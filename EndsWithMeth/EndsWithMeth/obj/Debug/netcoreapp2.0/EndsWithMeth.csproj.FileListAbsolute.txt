@@ -1,0 +1,11 @@
+E:\Stockage_projet\C#\EndsWithMeth\EndsWithMeth\bin\Debug\netcoreapp2.0\EndsWithMeth.deps.json
+E:\Stockage_projet\C#\EndsWithMeth\EndsWithMeth\bin\Debug\netcoreapp2.0\EndsWithMeth.runtimeconfig.json
+E:\Stockage_projet\C#\EndsWithMeth\EndsWithMeth\bin\Debug\netcoreapp2.0\EndsWithMeth.runtimeconfig.dev.json
+E:\Stockage_projet\C#\EndsWithMeth\EndsWithMeth\bin\Debug\netcoreapp2.0\EndsWithMeth.dll
+E:\Stockage_projet\C#\EndsWithMeth\EndsWithMeth\bin\Debug\netcoreapp2.0\EndsWithMeth.pdb
+E:\Stockage_projet\C#\EndsWithMeth\EndsWithMeth\obj\Debug\netcoreapp2.0\EndsWithMeth.csprojResolveAssemblyReference.cache
+E:\Stockage_projet\C#\EndsWithMeth\EndsWithMeth\obj\Debug\netcoreapp2.0\EndsWithMeth.csproj.CoreCompileInputs.cache
+E:\Stockage_projet\C#\EndsWithMeth\EndsWithMeth\obj\Debug\netcoreapp2.0\EndsWithMeth.AssemblyInfoInputs.cache
+E:\Stockage_projet\C#\EndsWithMeth\EndsWithMeth\obj\Debug\netcoreapp2.0\EndsWithMeth.AssemblyInfo.cs
+E:\Stockage_projet\C#\EndsWithMeth\EndsWithMeth\obj\Debug\netcoreapp2.0\EndsWithMeth.dll
+E:\Stockage_projet\C#\EndsWithMeth\EndsWithMeth\obj\Debug\netcoreapp2.0\EndsWithMeth.pdb
