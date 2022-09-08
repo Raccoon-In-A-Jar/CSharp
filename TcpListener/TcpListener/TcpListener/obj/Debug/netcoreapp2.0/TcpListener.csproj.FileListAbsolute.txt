@@ -1,0 +1,11 @@
+E:\Stockage_projet\C#\TcpListener\TcpListener\TcpListener\bin\Debug\netcoreapp2.0\TcpListener.deps.json
+E:\Stockage_projet\C#\TcpListener\TcpListener\TcpListener\bin\Debug\netcoreapp2.0\TcpListener.runtimeconfig.json
+E:\Stockage_projet\C#\TcpListener\TcpListener\TcpListener\bin\Debug\netcoreapp2.0\TcpListener.runtimeconfig.dev.json
+E:\Stockage_projet\C#\TcpListener\TcpListener\TcpListener\bin\Debug\netcoreapp2.0\TcpListener.dll
+E:\Stockage_projet\C#\TcpListener\TcpListener\TcpListener\bin\Debug\netcoreapp2.0\TcpListener.pdb
+E:\Stockage_projet\C#\TcpListener\TcpListener\TcpListener\obj\Debug\netcoreapp2.0\TcpListener.csprojResolveAssemblyReference.cache
+E:\Stockage_projet\C#\TcpListener\TcpListener\TcpListener\obj\Debug\netcoreapp2.0\TcpListener.csproj.CoreCompileInputs.cache
+E:\Stockage_projet\C#\TcpListener\TcpListener\TcpListener\obj\Debug\netcoreapp2.0\TcpListener.AssemblyInfoInputs.cache
+E:\Stockage_projet\C#\TcpListener\TcpListener\TcpListener\obj\Debug\netcoreapp2.0\TcpListener.AssemblyInfo.cs
+E:\Stockage_projet\C#\TcpListener\TcpListener\TcpListener\obj\Debug\netcoreapp2.0\TcpListener.dll
+E:\Stockage_projet\C#\TcpListener\TcpListener\TcpListener\obj\Debug\netcoreapp2.0\TcpListener.pdb
